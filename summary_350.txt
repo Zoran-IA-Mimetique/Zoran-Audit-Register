@@ -1,0 +1,1 @@
+Zoran-Audit-Register implémente un registre immuable par arbre de Merkle. Chaque action critique est hashée, chaînée et vérifiable. Rollback ΔM11.3 si falsification. Preuve exécutable d’auditabilité, open-source et reproductible, pour conformité RGPD & AI Act.

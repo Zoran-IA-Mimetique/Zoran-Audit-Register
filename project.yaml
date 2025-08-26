@@ -1,0 +1,5 @@
+name: Zoran-Audit-Register
+description: Immutable audit register for Zoran aSiM using Merkle trees
+license: MIT
+author: Frederic Tabary
+contact: tabary01@gmail.com
