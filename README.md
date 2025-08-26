@@ -1,0 +1,2 @@
+# Zoran-Audit-Register
+Audit Register de Zoran : registre immuable par Merkle tree, rollback ΔM11.3 en cas de falsification. Preuve d’intégrité exécutable.
